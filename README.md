@@ -1,17 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Cartoon Collections
 
 ## Objectives
