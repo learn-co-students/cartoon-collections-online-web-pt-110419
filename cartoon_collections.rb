@@ -1,16 +1,14 @@
-def roll_call_dwarves# code an argument here
-  # Your code here
+dwarves = ("Doc", "Dopey", "Bashful", "Grumpy")
+dwarves.each 
 end
 
-def summon_captain_planet# code an argument here
-  # Your code here
+planeteer_calls = ["earth", "fire", "wind", "water", "heart"]
+summon_captain_planet.map
+end
+long_planeteer_calls = ["earth", "fire", "wind", "water", "heart"]
+  long_planeteer_calls.include
 end
 
-def long_planeteer_calls# code an argument here
-  # Your code here
-end
-
-def find_the_cheese# code an argument here
-  # the array below is here to help
+snacks = ["crackers", "gouda", "thyme"]
   cheese_types = ["cheddar", "gouda", "camembert"]
-end
+find_the_cheese(snacks).inlcude
